@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971714519204",
+    "project_id": "smart-health-project-dd408",
+    "storage_bucket": "smart-health-project-dd408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971714519204:android:914c2f9c91f4b1a87c0631",
+        "android_client_info": {
+          "package_name": "com.example.rive_animated_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsz8wNGjyeshCkvTnDdczTigPO_3YzlZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
